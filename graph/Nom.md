@@ -1,0 +1,4 @@
+---
+entite: 
+parent: "[[CRM]]"
+---

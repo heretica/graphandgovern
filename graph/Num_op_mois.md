@@ -1,0 +1,4 @@
+---
+entite: field
+parent: "[[Datawarehouse]]"
+---
