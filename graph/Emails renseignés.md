@@ -1,3 +1,0 @@
----
-applicatif: "[[CRM]]"
----
