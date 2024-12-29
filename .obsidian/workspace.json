@@ -11,10 +11,14 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "graph/CRM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CRM"
             }
           }
         ]
@@ -181,6 +185,11 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/Responsable unité de production 2.md",
+    "graph/CRM.md",
+    "graph/Responsable unité de production 1.md",
+    "graph/Chargé de campagne marketing.md",
+    "graph",
     "Open AI.md",
     "README.md",
     "word.md",
