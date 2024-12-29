@@ -1,4 +1,4 @@
 ---
-entite: 
+entite: field
 parent: "[[CRM]]"
 ---

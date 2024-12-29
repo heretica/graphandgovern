@@ -1,3 +1,4 @@
 ---
 applicatif: "[[CRM]]"
+entite: attente
 ---

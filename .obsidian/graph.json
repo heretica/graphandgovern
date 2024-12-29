@@ -39,7 +39,14 @@
       "query": "[\"entite\":realite]",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 16711756
+      }
+    },
+    {
+      "query": "[\"entite\":applicatif]",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
