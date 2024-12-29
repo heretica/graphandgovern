@@ -1,4 +1,0 @@
----
-entite: 
-parent: "[[CRM]]"
----
