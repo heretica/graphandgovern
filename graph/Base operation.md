@@ -1,4 +1,0 @@
----
-entite: base
-parent: "[[ERP]]"
----
