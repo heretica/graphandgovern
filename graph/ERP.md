@@ -1,3 +1,4 @@
 ---
 entite: applicatif
+feeds: "[[Datawarehouse]]"
 ---
