@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "02085196d74528b2",
@@ -184,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24c4a94d71d2b012",
+  "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
     "rag/vector/test.md",
     "output116n87e.md",
