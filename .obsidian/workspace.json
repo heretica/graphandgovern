@@ -185,6 +185,7 @@
   },
   "active": "7067aff2014fae2e",
   "lastOpenFiles": [
+    "rag/requirements.txt",
     "rag/onto_graph/image__vector_store.json",
     "rag/onto_graph/default__vector_store.json",
     "rag/onto_graph/property_graph_store.json",
@@ -195,7 +196,6 @@
     "rag/knowledge_graph/default__vector_store.json",
     "rag/knowledge_graph/graph_store.json",
     "rag/knowledge_graph/index_store.json",
-    "rag/knowledge_graph/docstore.json",
     "rag/vector/test.md",
     "vector/test.md",
     "graph/Responsable unite de production 1.md",
