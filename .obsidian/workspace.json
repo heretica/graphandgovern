@@ -185,6 +185,7 @@
   },
   "active": "7067aff2014fae2e",
   "lastOpenFiles": [
+    "rag/vector",
     "vector/test.md",
     "vector/default__vector_store.json",
     "vector/docstore.json",
@@ -213,11 +214,9 @@
     "graph/Base personne.md",
     "graph/Base operation.md",
     "rag/vector/test.md",
-    "rag/vector",
     "graph",
     "Open AI.md",
     "README.md",
-    "word.md",
-    "syllable.md"
+    "word.md"
   ]
 }
