@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output.md",
+                "file": "output116n87e.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "output"
+              "title": "output116n87e"
             }
           }
         ]
@@ -183,10 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "f846e0779d2eae35",
   "lastOpenFiles": [
+    "knowledge_graph116n87e.html",
+    "OntoGraph116n87e.html",
+    "rag/OntoGraph116n87e.html",
+    "rag/knowledge_graph116n87e.html",
     "graph/Responsable unite de production 2.md",
-    "output.md",
+    "output116n87e.md",
     "rag/OntoGraph.html",
     "rag/lib/vis-9.1.2/vis-network.min.js",
     "rag/lib/vis-9.1.2/vis-network.css",
@@ -194,9 +198,6 @@
     "rag/lib/tom-select/tom-select.css",
     "rag/lib/tom-select/tom-select.complete.min.js",
     "rag/lib/tom-select",
-    "rag/lib/bindings/utils.js",
-    "rag/lib/bindings",
-    "rag/knowledge_graph.html",
     "rag/vector/test.md",
     "vector/test.md",
     "graph/Responsable unite de production 1.md",
@@ -219,7 +220,6 @@
     "graph/Base personne.md",
     "graph/Base operation.md",
     "Open AI.md",
-    "README.md",
-    "word.md"
+    "README.md"
   ]
 }
