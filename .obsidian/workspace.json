@@ -11,10 +11,14 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "graph/Directeur production.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Directeur production"
             }
           }
         ]
@@ -181,23 +185,25 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
-    "graph/ERP.md",
-    "graph/Datawarehouse.md",
-    "graph/CRM.md",
     "graph/Charge de campagne marketing.md",
-    "graph/Base personne.md",
-    "graph/Base operation.md",
     "graph/Directeur production.md",
-    "graph/Email.md",
+    "graph/Non-complétude des champs.md",
+    "graph/Complétude des champs.md",
     "graph/Email non-renseignés.md",
-    "graph/Emails renseignés.md",
-    "graph/Id_op.md",
-    "graph/Membre ecosysteme 1.md",
-    "graph/Membre ecosysteme 2.md",
-    "graph/Nom.md",
-    "graph/Num_op_mois.md",
     "graph/Responsable unite de production 2.md",
     "graph/Responsable unite de production 1.md",
+    "graph/Membre ecosysteme 2.md",
+    "graph/Membre ecosysteme 1.md",
+    "graph/Datawarehouse.md",
+    "graph/ERP.md",
+    "graph/CRM.md",
+    "graph/Base personne.md",
+    "graph/Base operation.md",
+    "graph/Email.md",
+    "graph/Emails renseignés.md",
+    "graph/Id_op.md",
+    "graph/Nom.md",
+    "graph/Num_op_mois.md",
     "graph/Nom_op.md",
     "rag/vector/test.md",
     "rag/vector",
@@ -206,7 +212,6 @@
     "README.md",
     "word.md",
     "syllable.md",
-    "phraseme.md",
-    "non-compositional meaning.md"
+    "phraseme.md"
   ]
 }
