@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/Directeur production.md",
+                "file": "graph/ERP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directeur production"
+              "title": "ERP"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
-    "graph/Charge de campagne marketing.md",
+    "graph/Emails renseignés.md",
+    "graph/Email non-renseignés.md",
+    "graph/Email.md",
     "graph/Directeur production.md",
+    "graph/Charge de campagne marketing.md",
     "graph/Non-complétude des champs.md",
     "graph/Complétude des champs.md",
-    "graph/Email non-renseignés.md",
     "graph/Responsable unite de production 2.md",
     "graph/Responsable unite de production 1.md",
     "graph/Membre ecosysteme 2.md",
@@ -199,8 +201,6 @@
     "graph/CRM.md",
     "graph/Base personne.md",
     "graph/Base operation.md",
-    "graph/Email.md",
-    "graph/Emails renseignés.md",
     "graph/Id_op.md",
     "graph/Nom.md",
     "graph/Num_op_mois.md",
