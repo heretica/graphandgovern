@@ -69,13 +69,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "02085196d74528b2",
@@ -184,13 +182,13 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/Nom_op.md",
     "output116n87e.md",
     "rag/vector/test.md",
     "README.md",
     "rag/OntoGraph.html",
     "rag/knowledge_graph.html",
     "graph/Id_op.md",
-    "graph/Nom_op.md",
     "knowledge_graph116n87e.html",
     "OntoGraph116n87e.html",
     "rag/OntoGraph116n87e.html",
