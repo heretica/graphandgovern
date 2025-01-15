@@ -11,11 +11,60 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "graph/Membre ecosysteme 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Membre ecosysteme 2"
+            },
+            "group": "d3a93d34b62754ba"
+          }
+        ]
+      },
+      {
+        "id": "5c2c9b1a8d0b7719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3daa937455ad051",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "graph/Membre ecosysteme 2.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+              "title": "Graph of Membre ecosysteme 2"
+            },
+            "group": "d3a93d34b62754ba"
           }
         ]
       }
@@ -69,7 +118,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,11 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "b3daa937455ad051",
   "lastOpenFiles": [
+    "reponse_gouvernance.md",
     "graph/Id_op.md",
     "graph/Membre ecosysteme 2.md",
-    "reponse_gouvernance.md",
     "graph/Nom_op.md",
     "graph/Base operation.md",
     "output116n87e.md",
