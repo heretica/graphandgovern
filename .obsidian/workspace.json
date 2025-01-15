@@ -182,11 +182,12 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/Nom_op.md",
+    "graph/Base operation.md",
     "output116n87e.md",
     "graph/Membre ecosysteme 1.md",
     "graph/Complétude des champs.md",
     "graph/Charge de campagne marketing.md",
-    "graph/Nom_op.md",
     "rag/vector/test.md",
     "README.md",
     "rag/OntoGraph.html",
@@ -215,7 +216,6 @@
     "graph/Datawarehouse.md",
     "graph/CRM.md",
     "graph/Base personne.md",
-    "graph/Base operation.md",
     "Open AI.md"
   ]
 }
