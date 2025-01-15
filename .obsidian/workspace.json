@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dupont",
+                "query": "Laurent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "right": {
     "id": "02085196d74528b2",
@@ -182,8 +182,11 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
-    "graph/Nom_op.md",
     "output116n87e.md",
+    "graph/Membre ecosysteme 1.md",
+    "graph/Complétude des champs.md",
+    "graph/Charge de campagne marketing.md",
+    "graph/Nom_op.md",
     "rag/vector/test.md",
     "README.md",
     "rag/OntoGraph.html",
@@ -204,14 +207,11 @@
     "graph/Non-complétude des champs.md",
     "graph/Nom.md",
     "graph/Membre ecosysteme 2.md",
-    "graph/Membre ecosysteme 1.md",
     "graph/ERP.md",
     "graph/Emails renseignés.md",
     "graph/Email non-renseignés.md",
     "graph/Email.md",
     "graph/Directeur production.md",
-    "graph/Charge de campagne marketing.md",
-    "graph/Complétude des champs.md",
     "graph/Datawarehouse.md",
     "graph/CRM.md",
     "graph/Base personne.md",
