@@ -118,8 +118,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3daa937455ad051",
+  "active": "f846e0779d2eae35",
   "lastOpenFiles": [
     "reponse_gouvernance.md",
     "graph/Id_op.md",
