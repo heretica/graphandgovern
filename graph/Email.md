@@ -1,4 +1,4 @@
 ---
 entite: field
-parent: "[[Base personne]]"
+parent: "[[Base personnes]]"
 ---

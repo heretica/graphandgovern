@@ -1,5 +1,5 @@
 ---
-entite: base
+entite: applicatif
 ---
 Ce document a pour objectif de décrire les aspects techniques du Datawarehouse et ses contrats d'interface avec le système ERP. Il inclut les spécifications des flux de données, les politiques d'accès, et les contraintes liées à l'utilisation.
 
