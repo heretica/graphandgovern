@@ -1,4 +1,4 @@
 ---
 entite: 
-parent: "[[CRM]]"
+parent: "[[Base personne]]"
 ---
