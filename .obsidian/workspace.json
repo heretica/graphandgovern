@@ -11,42 +11,13 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/Directeur agence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Directeur agence"
-            }
-          },
-          {
-            "id": "cc6c866a98442dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/Base client.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Base client"
-            }
-          },
-          {
-            "id": "b38a2c25b279a558",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Laurent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "02085196d74528b2",
@@ -195,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,41 +181,32 @@
   },
   "active": "7067aff2014fae2e",
   "lastOpenFiles": [
-    "graph/Base personne.md",
-    "response_query.md",
-    "reponse_gouvernance.md",
-    "output116n87e.md",
-    "knowledge_graph116n87e.html",
-    "graph/Responsable unite de production 2.md",
-    "graph/Responsable unite de production 1.md",
-    "graph/Prénom.md",
-    "graph/Opérateur agence.md",
-    "graph/OptIn.md",
-    "graph/Num_op_mois.md",
-    "graph/Non-complétude des champs.md",
-    "graph/Nom_op.md",
-    "graph/Nom.md",
-    "graph/Logiciel client.md",
-    "graph/Id_op.md",
-    "graph/Flux IndividusPersonne.md",
-    "graph/Flux ClientInvididus.md",
+    "rag/vector/test.md",
+    "rag/vector",
     "graph/Emails renseignés.md",
-    "graph/Email_pers.md",
-    "graph/Email_indiv.md",
     "graph/Email.md",
     "graph/Email non-renseignés.md",
+    "graph/Charge de campagne marketing.md",
+    "graph/CRM.md",
+    "graph/Base personne.md",
+    "graph/Nom.md",
+    "graph/Responsable unite de production 2.md",
+    "graph/Responsable unite de production 1.md",
+    "graph/Num_op_mois.md",
+    "graph/Nom_op.md",
+    "graph/Id_op.md",
     "graph/ERP.md",
     "graph/Directeur production.md",
-    "graph/Directeur agence.md",
     "graph/Datawarehouse.md",
-    "OntoGraph116n87e.html",
+    "graph/Base operation.md",
+    "graph/Membre ecosysteme 2.md",
+    "graph/Membre ecosysteme 1.md",
     "graph",
-    "rag/OntoGraph.html",
-    "rag/knowledge_graph.html",
-    "rag/OntoGraph116n87e.html",
-    "rag/knowledge_graph116n87e.html",
-    "rag/lib/vis-9.1.2/vis-network.min.js",
-    "rag/lib/vis-9.1.2/vis-network.css",
-    "rag/lib/vis-9.1.2"
+    "Open AI.md",
+    "README.md",
+    "word.md",
+    "syllable.md",
+    "phraseme.md",
+    "non-compositional meaning.md"
   ]
 }
