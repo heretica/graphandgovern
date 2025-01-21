@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 259.5
   },
   "right": {
     "id": "02085196d74528b2",
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b38a2c25b279a558",
+  "active": "7067aff2014fae2e",
   "lastOpenFiles": [
     "rag/onto_graph/test.md",
     "graph/Membre ecosysteme 2.md",
