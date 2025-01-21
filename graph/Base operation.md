@@ -1,5 +1,5 @@
 ---
-entite: base
+entite: table
 parent: "[[ERP]]"
 ---
 La base de données "Opérations" est un composant clé du système d'information de l'entreprise. Elle contient les informations relatives aux opérations réalisées par l'entreprise, permettant leur suivi, analyse et gestion. Ce document décrit la structure, les caractéristiques techniques et les bonnes pratiques associées à cette base de données.

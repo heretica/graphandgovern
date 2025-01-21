@@ -1,5 +1,5 @@
 ---
-entite: base
+entite: table
 parent: "[[CRM]]"
 ---
 

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "[\"entite\":personne physique]",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "[\"entite\":base]",
+      "query": "[\"entite\":table]",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9643237564292335,
+  "scale": 1.5303624959161257,
   "close": false
 }

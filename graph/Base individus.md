@@ -1,4 +1,4 @@
 ---
-entite: base
+entite: table
 parent: "[[Datawarehouse]]"
 ---

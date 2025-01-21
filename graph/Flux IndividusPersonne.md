@@ -1,5 +1,5 @@
 ---
 entite: job
-source: "[[Base client]]"
+parent: "[[Base individus]]"
 target: "[[Base personnes]]"
 ---

@@ -1,4 +1,4 @@
 ---
 parent: "[[Logiciel client]]"
-entite: base
+entite: table
 ---
