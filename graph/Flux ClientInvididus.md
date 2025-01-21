@@ -5,4 +5,5 @@ target: "[[Base individus]]"
 ---
 # Documentation 
 
-Ce flux supprime tous les emails dès lors que l'opt-in (consentement RGPD à être contacté) 
+Ce flux supprime tous les emails dès lors que l'[[OptIn]] (consentement RGPD à être contacté) est à 0
+
