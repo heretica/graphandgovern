@@ -211,6 +211,7 @@
   },
   "active": "b38a2c25b279a558",
   "lastOpenFiles": [
+    "response_query.md",
     "graph/Flux IndividusPersonne.md",
     "graph/Prénom.md",
     "graph/Adresse.md",
@@ -236,7 +237,6 @@
     "graph/Membre ecosysteme 1.md",
     "graph/Membre ecosysteme 2.md",
     "reponse_gouvernance.md",
-    "graph/Nom_op.md",
     "rag/OntoGraph.html",
     "rag/knowledge_graph.html",
     "knowledge_graph116n87e.html",
