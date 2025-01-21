@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/Membre ecosysteme 2.md",
+                "file": "graph/Directeur agence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Membre ecosysteme 2"
+              "title": "Directeur agence"
             },
             "group": "d3a93d34b62754ba"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "graph/Membre ecosysteme 2.md",
+                "file": "graph/Directeur agence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Membre ecosysteme 2"
+              "title": "Graph of Directeur agence"
             },
             "group": "d3a93d34b62754ba"
           }
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "02085196d74528b2",
@@ -228,17 +228,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f846e0779d2eae35",
+  "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/Logiciel client.md",
+    "graph/Directeur agence.md",
+    "graph/Charge de campagne marketing.md",
+    "graph/Membre ecosysteme 1.md",
+    "graph/Email.md",
+    "graph/CRM.md",
+    "graph/Membre ecosysteme 2.md",
     "reponse_gouvernance.md",
     "graph/Id_op.md",
-    "graph/Membre ecosysteme 2.md",
     "graph/Nom_op.md",
     "graph/Base operation.md",
     "output116n87e.md",
-    "graph/Membre ecosysteme 1.md",
     "graph/Complétude des champs.md",
-    "graph/Charge de campagne marketing.md",
     "rag/vector/test.md",
     "README.md",
     "rag/OntoGraph.html",
@@ -260,11 +264,7 @@
     "graph/ERP.md",
     "graph/Emails renseignés.md",
     "graph/Email non-renseignés.md",
-    "graph/Email.md",
     "graph/Directeur production.md",
-    "graph/Datawarehouse.md",
-    "graph/CRM.md",
-    "graph/Base personne.md",
-    "Open AI.md"
+    "graph/Datawarehouse.md"
   ]
 }
