@@ -11,14 +11,10 @@
             "id": "e73feb7d30285b0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/Directeur agence.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Directeur agence"
+              "title": "New tab"
             }
           },
           {
@@ -39,10 +35,14 @@
             "id": "b38a2c25b279a558",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "graph/Membre ecosysteme 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Membre ecosysteme 1"
             }
           }
         ],
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7067aff2014fae2e",
+  "active": "b38a2c25b279a558",
   "lastOpenFiles": [
     "rag/onto_graph/test.md",
     "graph/Membre ecosysteme 2.md",
